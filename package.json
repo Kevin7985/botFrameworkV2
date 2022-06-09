@@ -1,0 +1,23 @@
+{
+  "name": "botframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin7985/botFrameworkV2.git"
+  },
+  "author": "IS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kevin7985/botFrameworkV2/issues"
+  },
+  "homepage": "https://github.com/Kevin7985/botFrameworkV2#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "node-telegram-bot-api": "^0.57.0"
+  }
+}
