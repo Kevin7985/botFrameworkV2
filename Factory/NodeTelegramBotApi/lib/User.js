@@ -38,10 +38,6 @@ class User {
     return this.#meta.language_code;
   }
 
-  setIsBot(is_bot) {
-    this.#meta.is_bot = is_bot;
-  }
-
   setFirstName(first_name) {
     this.#meta.first_name = first_name;
   }
